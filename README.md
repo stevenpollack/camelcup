@@ -1,0 +1,2 @@
+# camelcup
+Camel Up! simulator
